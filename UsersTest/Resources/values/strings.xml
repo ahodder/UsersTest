@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">UsersTest</string>
+  <string name="activity_create_user">Create User</string>
+  <string name="activity_edit_user">Edit User</string>
+  
+  <string name="action_save">Save</string>
+  
+  <string name="user_name">User Name</string>
+  <string name="password">Password</string>
+  <string name="password_verify">Verify Password</string>
+  <string name="first_name">First Name</string>
+  <string name="last_name">Last Name</string>
+  <string name="address1">Address Line 1</string>
+  <string name="address2">Address Line 2</string>
+  <string name="city">City</string>
+  <string name="state">State</string>
+  <string name="country">Country</string>
+  <string name="creating_user">Creating User</string>
+  <string name="please_wait">Please Wait...</string>
+  <string name="deleted_user">Deleted user</string>
+  <string name="undo_delete">Undo Delete</string>
+  
+  <string name="password_hint">Your user password must be between 5-12 alphanumeric characters without repeating character sequences.</string>
+  <string name="invalid_password">The password is invalid</string>
+  
+  <string name="error_critical_app_failure">Something really wrong happened. If this continues, please contact Company and (123) 456-7890 </string>
+  
+  <string name="error_failed_to_create_user">Failed to create user</string>
+  <string name="error_failed_to_load_users">Failed to load users</string>
+  <string name="error_failed_to_load_user">Failed to load user</string>
+  <string name="error_failed_to_delete_user">Failed to delete user</string>
+  <string name="error_failed_to_save_user">Failed to save user</string>
+  <string name="error_failed_to_undo_delete">Failed to undo delete</string>
+  <string name="error_failed_to_provide_user">Failed to provide user</string>
+
+  <string name="error_user_create_exception_no_user_name">No User Name</string>
+  <string name="error_user_create_exception_user_name_invalid">Invalid User Name</string>
+  <string name="error_user_create_exception_password_invalid">Invalid password</string>
+  <string name="error_user_create_exception_passwords_do_not_match">Passwords don\'t match</string>
+  <string name="error_user_create_exception_already_exists">User already exists</string>
+  <string name="error_user_create_exception_unknown">Unknown reason</string>
+</resources>
